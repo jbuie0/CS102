@@ -1,1 +1,1 @@
-# CS102
+# The purpose of this respository is to keep up with my code from my first computer science class I took at UTK. In CS102, we completed weekly labs to gauge our ability to code and grasp computer science concepts.
